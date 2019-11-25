@@ -1,6 +1,12 @@
 <template>
-  <div>
-
+  <div style="width: 100%; height: 100%;">
+   <map
+      id="map"
+      scale="14"
+      :markers="markers"
+      show-location
+      style="width: 100%; height: 100%;"
+    ></map>
   </div>
 </template>
 
@@ -10,6 +16,13 @@ import card from '@/components/card'
 export default {
   data () {
     return {
+      markers:[{
+        id:0,
+        latitude:23.099994,
+        longitude:113.324520,
+        width:50,
+        height:50
+      }]
     }
   },
 
@@ -21,7 +34,9 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style>
+body,html {
+  height:100%
+}
 </style>
 
