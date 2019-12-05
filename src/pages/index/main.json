@@ -1,4 +1,4 @@
-{   "navigationBarTitleText": "麦当当",
+{   "navigationBarTitleText": "美妆酱",
     "usingComponents": {
         "i-grid": "../../../static/dist/grid/index",
         "i-grid-item": "../../../static/dist/grid-item/index",

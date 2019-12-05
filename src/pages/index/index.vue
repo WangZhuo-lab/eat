@@ -37,23 +37,25 @@
 export default {
   data () {
     return {
-      title_name:"热门",
+      title_name:"hot",
       grids:[
-        {title:"外卖",image:"/static/images/1.png"},
-        {title:"饮品",image:"/static/images/2.png"},
-        {title:"主食",image:"/static/images/3.png"},
-        {title:"小吃",image:"/static/images/4.png"}
+        {title:"口红",image:"/static/images/kouhong.png"},
+        {title:"粉底",image:"/static/images/fendi.png"},
+        {title:"眼影",image:"/static/images/yanying.png"},
+        {title:"眉笔",image:"/static/images/meibi.png"}
       ],
       top:[
-        {name:"店名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-        {name:"店名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-        {name:"店名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-        {name:"店名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+        {name:"香奈儿新春礼盒",address:"地址1",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/chanel58 57 43.jpg",remark:"内置chanel 58 57 43三款口红"},
+        {name:"女神隔离",address:"地址2",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/nvshen.jpg",remark:"介绍2"},
+        {name:"爱敬持久气垫",address:"地址3",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/age.jpg",remark:"介绍3"},
+        {name:"纪梵希四宫格散粉",address:"地址4",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/givenchy.jpg",remark:"介绍4"}
       ],
       imgUrls: [
-        'http://www.canyin88.com/uploads/image/2019/04/16/1555378220872933.jpg',
-        'http://www.canyin88.com/uploads/image/2019/04/15/1555321255843942.jpg',
-        'http://www.canyin88.com/uploads/190415/99ad8154e7332ca96ccb323580b3b8a2_3.jpg'
+        'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong5.jpg',
+        'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong4.jpg',
+        'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong3.jpg',
+        'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong2.jpg',
+        'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong1.jpg'
       ],
       indicatorDots: false,
       autoplay: false,
