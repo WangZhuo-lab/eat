@@ -45,10 +45,10 @@ export default {
         {title:"眉笔",image:"/static/images/meibi.png"}
       ],
       top:[
-        {name:"香奈儿新春礼盒",address:"地址1",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/chanel58 57 43.jpg",remark:"内置chanel 58 57 43三款口红"},
-        {name:"女神隔离",address:"地址2",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/nvshen.jpg",remark:"介绍2"},
-        {name:"爱敬持久气垫",address:"地址3",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/age.jpg",remark:"介绍3"},
-        {name:"纪梵希四宫格散粉",address:"地址4",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/givenchy.jpg",remark:"介绍4"}
+        {name:"香奈儿新春礼盒",address:"江汉区-解放大道688号-武商广场",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/chanel58 57 43.jpg",remark:"内置chanel58冬天的丝绒红棕色，57秋天丝绒枫叶红，43春夏俏皮颜色珊瑚色"},
+        {name:"女神隔离",address:"淘宝vicividi官方旗舰店",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/nvshen.jpg",remark:"提亮+隔离+妆前乳三合一，滋润不油腻，还有SPF30+防晒！"},
+        {name:"爱敬持久气垫",address:"江岸区-中山大道756号-大洋百货",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/age.jpg",remark:"分为三款，适用于各肤质，平价好用性价比超高！"},
+        {name:"纪梵希四宫格散粉",address:"江汉区-解放大道690号-武汉国际广场",image:"cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/givenchy.jpg",remark:"细腻粉质 轻盈定妆 控油持妆"}
       ],
       imgUrls: [
         'cloud://eat-ukl2e.6561-eat-ukl2e-1300844576/huadong5.jpg',
